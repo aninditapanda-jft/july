@@ -1,6 +1,7 @@
 class{
-    hello user
-    read the user
+    hello user2
+    lived in wolrd
+    i am preety
     pros the user
     
 }
